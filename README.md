@@ -2,6 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Pleaase check below information:
+
+```bash
+node version: ^16.0.0
+wagmi version: ^0.10.10
+```
+
 First, run the development server:
 
 ```bash
@@ -11,6 +18,7 @@ yarn dev
 # or
 pnpm dev
 ```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
