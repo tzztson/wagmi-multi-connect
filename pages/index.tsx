@@ -49,7 +49,7 @@ export default function Home() {
   const CheckNetwork = () => {
     if (isUserConnected && chain?.id !== currentNetwork.chainNoHex) {
       console.log(
-        "HEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE  ",
+        "",
         chain?.id,
         currentNetwork.chainId
       );
